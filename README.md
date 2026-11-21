@@ -1,4 +1,4 @@
-## Hi I am MD. Nurul Amin Rahat 👋
+## Hi I am Md. Nurul Amin Rahat 👋
 
 <!--
 **rahatco/rahatco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
