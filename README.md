@@ -10,7 +10,7 @@ CSE Student | IT Support
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science and Engineering Student
-- 🤖 Interested in Neteworking 
+- 🤖 Interested in Infrastructure and Security 
 - 🌦️ Working on Weather Forecasting and Explainable AI
 - 💻 Learning Python, Java
 - 🚀 Interested in building practical projects
@@ -25,7 +25,7 @@ CSE Student | IT Support
 ### 🚀 Featured Projects
 
 - WeatherXAI-BD — Explainable Weather Forecasting
-- Cisco Packet Tracer
+- Cisco Packet Tracer (Office Network Design)
 - Machine Learning Projects
 
 ---
