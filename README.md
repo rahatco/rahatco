@@ -1,16 +1,33 @@
-## Hi I am Md. Nurul Amin Rahat 👋
 
-<!--
-**rahatco/rahatco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Md. Nurul Amin Rahat 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+CSE Student | IT Support 
+</h3>
 
-- 🔭 I’m currently working on IT Support 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science and Engineering Student
+- 🤖 Interested in Neteworking 
+- 🌦️ Working on Weather Forecasting and Explainable AI
+- 💻 Learning Python, Java
+- 🚀 Interested in building practical projects
+
+### 🛠️ Skills
+
+- **Programming:** Python,  Java
+- **Web:** HTML, CSS, JavaScript
+- **AI/ML:** NumPy, Pandas, Machine Learning
+- **Database:** MySQL
+
+### 🚀 Featured Projects
+
+- WeatherXAI-BD — Explainable Weather Forecasting
+- Cisco Packet Tracer
+- Machine Learning Projects
+
+---
+
+⭐ Thanks for visiting my profile!
