@@ -20,12 +20,12 @@
 - **Web:** HTML, CSS, JavaScript
 - **AI/ML:** NumPy, Pandas,Mathlab
 - **Database:** MySQL
+- 
 ---
 ### 🚀 Featured Projects
 
-- WeatherXAI-BD — Explainable Weather Forecasting
 - Cisco Packet Tracer (Office Network Design)
-- Machine Learning Projects
+
 
 ---
 
