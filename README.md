@@ -19,7 +19,7 @@
 
 - **Programming:** Python,  Java
 - **Web:** HTML, CSS, JavaScript
-- **AI/ML:** NumPy, Pandas, Machine Learning
+- **AI/ML:** NumPy, Pandas,Mathlab
 - **Database:** MySQL
 
 ### 🚀 Featured Projects
