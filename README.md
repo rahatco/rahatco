@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Md. Nurul Amin Rahat 👋</h1>
 
 <h3 align="center">
-CSE Student | IT Support 
+ Help Desk Support 
 </h3>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - 🎓 Computer Science and Engineering Student
 - 🤖 Interested in Infrastructure and Security 
@@ -15,7 +15,7 @@ CSE Student | IT Support
 - 💻 Learning Python, Java
 - 🚀 Interested in building practical projects
 
-### 🛠️ Skills
+###  Skills
 
 - **Programming:** Python,  Java
 - **Web:** HTML, CSS, JavaScript
