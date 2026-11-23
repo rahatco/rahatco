@@ -9,11 +9,10 @@
 
 ###  About Me
 
-- 🎓 Computer Science and Engineering Student
-- 🤖 Interested in Infrastructure and Security 
-- 🌦️ Working on Weather Forecasting and Explainable AI
-- 💻 Learning Python, Java
-- 🚀 Interested in building practical projects
+ Computer Science and Engineering Student. Interested in Infrastructure and Security 
+  
+---
+
 
 ###  Skills
 
@@ -21,7 +20,7 @@
 - **Web:** HTML, CSS, JavaScript
 - **AI/ML:** NumPy, Pandas,Mathlab
 - **Database:** MySQL
-
+---
 ### 🚀 Featured Projects
 
 - WeatherXAI-BD — Explainable Weather Forecasting
